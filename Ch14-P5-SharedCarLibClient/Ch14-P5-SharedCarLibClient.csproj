@@ -33,6 +33,11 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="Ch14-P2-CarLibrary, Version=1.0.0.0, Culture=neutral, PublicKeyToken=329eed5f2441ef77, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\..\Windows\Microsoft.NET\assembly\GAC_MSIL\Ch14-P2-CarLibrary\v4.0_1.0.0.0__329eed5f2441ef77\Ch14-P2-CarLibrary.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
     <Reference Include="System.Xml.Linq" />
