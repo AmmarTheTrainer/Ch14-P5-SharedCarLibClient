@@ -33,10 +33,9 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
-    <Reference Include="Ch14-P2-CarLibrary, Version=1.0.0.0, Culture=neutral, PublicKeyToken=329eed5f2441ef77, processorArchitecture=MSIL">
+    <Reference Include="Ch14-P2-CarLibrary, Version=4.0.0.0, Culture=neutral, PublicKeyToken=a2be0d9dd36240a4, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>..\..\..\..\..\..\Windows\Microsoft.NET\assembly\GAC_MSIL\Ch14-P2-CarLibrary\v4.0_1.0.0.0__329eed5f2441ef77\Ch14-P2-CarLibrary.dll</HintPath>
-      <Private>False</Private>
+      <HintPath>..\..\..\..\..\..\Windows\Microsoft.NET\assembly\GAC_MSIL\Ch14-P2-CarLibrary\v4.0_3.0.0.0__a2be0d9dd36240a4\Ch14-P2-CarLibrary.dll</HintPath>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
@@ -53,6 +52,7 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+    <None Include="Ch14-P5-SharedCarLibClient.exe.config" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
